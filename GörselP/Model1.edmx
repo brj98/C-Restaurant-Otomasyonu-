@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="RestorantOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Kullanicilar">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KullanciAd" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Şifre" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="personal" Type="bit" />
+          <Property Name="rezirvasiyon" Type="bit" />
+          <Property Name="sipariş" Type="bit" />
+          <Property Name="menüitem" Type="bit" />
+          <Property Name="kullanıcılar" Type="bit" />
+          <Property Name="fatura" Type="bit" />
+        </EntityType>
+        <EntityType Name="Masa">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Masa_No" Type="varchar" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Menü">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kategori" Type="varchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Menüİtem">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ÜrünAd" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="Fiyat" Type="float" />
+          <Property Name="ID_Menü" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Personal">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Ad" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="SoyAd" Type="varchar" MaxLength="20" Nullable="false" />
+          <Property Name="Maaş" Type="float" />
+          <Property Name="Rol" Type="varchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Rezervasiyon">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RezervasiyonTarihi" Type="date" Nullable="false" />
+          <Property Name="Masa_ID" Type="int" Nullable="false" />
+          <Property Name="MüşteriAd" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="TelefonNO" Type="varchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Sipariş">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Sipariş_No" Type="int" />
+          <Property Name="Adet" Type="int" />
+          <Property Name="Toplam" Type="float" />
+          <Property Name="ID_Masa" Type="int" />
+          <Property Name="ID_Menüitem" Type="int" />
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <Association Name="masafk">
+          <End Role="Masa" Type="Self.Masa" Multiplicity="1" />
+          <End Role="Rezervasiyon" Type="Self.Rezervasiyon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Masa">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Rezervasiyon">
+              <PropertyRef Name="Masa_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="meifk">
+          <End Role="Menü" Type="Self.Menü" Multiplicity="1" />
+          <End Role="Menüİtem" Type="Self.Menüİtem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Menü">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Menüİtem">
+              <PropertyRef Name="ID_Menü" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="smfk">
+          <End Role="Masa" Type="Self.Masa" Multiplicity="0..1" />
+          <End Role="Sipariş" Type="Self.Sipariş" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Masa">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Sipariş">
+              <PropertyRef Name="ID_Masa" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="smifk">
+          <End Role="Menüİtem" Type="Self.Menüİtem" Multiplicity="0..1" />
+          <End Role="Sipariş" Type="Self.Sipariş" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Menüİtem">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Sipariş">
+              <PropertyRef Name="ID_Menüitem" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="RestorantOModelStoreContainer">
+          <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Masa" EntityType="Self.Masa" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Menü" EntityType="Self.Menü" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Menüİtem" EntityType="Self.Menüİtem" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Personal" EntityType="Self.Personal" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Rezervasiyon" EntityType="Self.Rezervasiyon" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sipariş" EntityType="Self.Sipariş" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="masafk" Association="Self.masafk">
+            <End Role="Masa" EntitySet="Masa" />
+            <End Role="Rezervasiyon" EntitySet="Rezervasiyon" />
+          </AssociationSet>
+          <AssociationSet Name="meifk" Association="Self.meifk">
+            <End Role="Menü" EntitySet="Menü" />
+            <End Role="Menüİtem" EntitySet="Menüİtem" />
+          </AssociationSet>
+          <AssociationSet Name="smfk" Association="Self.smfk">
+            <End Role="Masa" EntitySet="Masa" />
+            <End Role="Sipariş" EntitySet="Sipariş" />
+          </AssociationSet>
+          <AssociationSet Name="smifk" Association="Self.smifk">
+            <End Role="Menüİtem" EntitySet="Menüİtem" />
+            <End Role="Sipariş" EntitySet="Sipariş" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="RestorantOModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Kullanicilar">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KullanciAd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Şifre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="personal" Type="Boolean" />
+          <Property Name="rezirvasiyon" Type="Boolean" />
+          <Property Name="sipariş" Type="Boolean" />
+          <Property Name="menüitem" Type="Boolean" />
+          <Property Name="kullanıcılar" Type="Boolean" />
+          <Property Name="fatura" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="Masa">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Masa_No" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Rezervasiyons" Relationship="Self.masafk" FromRole="Masa" ToRole="Rezervasiyon" />
+          <NavigationProperty Name="Sipariş" Relationship="Self.smfk" FromRole="Masa" ToRole="Sipariş" />
+        </EntityType>
+        <EntityType Name="Menü">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kategori" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Menüİtem" Relationship="Self.meifk" FromRole="Menü" ToRole="Menüİtem" />
+        </EntityType>
+        <EntityType Name="Menüİtem">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ÜrünAd" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Fiyat" Type="Double" />
+          <Property Name="ID_Menü" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Menü" Relationship="Self.meifk" FromRole="Menüİtem" ToRole="Menü" />
+          <NavigationProperty Name="Sipariş" Relationship="Self.smifk" FromRole="Menüİtem" ToRole="Sipariş" />
+        </EntityType>
+        <EntityType Name="Personal">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Ad" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="SoyAd" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Maaş" Type="Double" />
+          <Property Name="Rol" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Rezervasiyon">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RezervasiyonTarihi" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Masa_ID" Type="Int32" Nullable="false" />
+          <Property Name="MüşteriAd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="TelefonNO" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Masa" Relationship="Self.masafk" FromRole="Rezervasiyon" ToRole="Masa" />
+        </EntityType>
+        <EntityType Name="Sipariş">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Sipariş_No" Type="Int32" />
+          <Property Name="Adet" Type="Int32" />
+          <Property Name="Toplam" Type="Double" />
+          <Property Name="ID_Masa" Type="Int32" />
+          <Property Name="ID_Menüitem" Type="Int32" />
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Masa" Relationship="Self.smfk" FromRole="Sipariş" ToRole="Masa" />
+          <NavigationProperty Name="Menüİtem" Relationship="Self.smifk" FromRole="Sipariş" ToRole="Menüİtem" />
+        </EntityType>
+        <Association Name="masafk">
+          <End Role="Masa" Type="Self.Masa" Multiplicity="1" />
+          <End Role="Rezervasiyon" Type="Self.Rezervasiyon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Masa">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Rezervasiyon">
+              <PropertyRef Name="Masa_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="smfk">
+          <End Role="Masa" Type="Self.Masa" Multiplicity="0..1" />
+          <End Role="Sipariş" Type="Self.Sipariş" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Masa">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Sipariş">
+              <PropertyRef Name="ID_Masa" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="meifk">
+          <End Role="Menü" Type="Self.Menü" Multiplicity="1" />
+          <End Role="Menüİtem" Type="Self.Menüİtem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Menü">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Menüİtem">
+              <PropertyRef Name="ID_Menü" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="smifk">
+          <End Role="Menüİtem" Type="Self.Menüİtem" Multiplicity="0..1" />
+          <End Role="Sipariş" Type="Self.Sipariş" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Menüİtem">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Sipariş">
+              <PropertyRef Name="ID_Menüitem" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="RestorantOEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Kullanicilars" EntityType="Self.Kullanicilar" />
+          <EntitySet Name="Masas" EntityType="Self.Masa" />
+          <EntitySet Name="Menü" EntityType="Self.Menü" />
+          <EntitySet Name="Menüİtem" EntityType="Self.Menüİtem" />
+          <EntitySet Name="Personals" EntityType="Self.Personal" />
+          <EntitySet Name="Rezervasiyons" EntityType="Self.Rezervasiyon" />
+          <EntitySet Name="Sipariş" EntityType="Self.Sipariş" />
+          <AssociationSet Name="masafk" Association="Self.masafk">
+            <End Role="Masa" EntitySet="Masas" />
+            <End Role="Rezervasiyon" EntitySet="Rezervasiyons" />
+          </AssociationSet>
+          <AssociationSet Name="smfk" Association="Self.smfk">
+            <End Role="Masa" EntitySet="Masas" />
+            <End Role="Sipariş" EntitySet="Sipariş" />
+          </AssociationSet>
+          <AssociationSet Name="meifk" Association="Self.meifk">
+            <End Role="Menü" EntitySet="Menü" />
+            <End Role="Menüİtem" EntitySet="Menüİtem" />
+          </AssociationSet>
+          <AssociationSet Name="smifk" Association="Self.smifk">
+            <End Role="Menüİtem" EntitySet="Menüİtem" />
+            <End Role="Sipariş" EntitySet="Sipariş" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="RestorantOModelStoreContainer" CdmEntityContainer="RestorantOEntities2">
+          <EntitySetMapping Name="Kullanicilars">
+            <EntityTypeMapping TypeName="RestorantOModel.Kullanicilar">
+              <MappingFragment StoreEntitySet="Kullanicilar">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="KullanciAd" ColumnName="KullanciAd" />
+                <ScalarProperty Name="Şifre" ColumnName="Şifre" />
+                <ScalarProperty Name="personal" ColumnName="personal" />
+                <ScalarProperty Name="rezirvasiyon" ColumnName="rezirvasiyon" />
+                <ScalarProperty Name="sipariş" ColumnName="sipariş" />
+                <ScalarProperty Name="menüitem" ColumnName="menüitem" />
+                <ScalarProperty Name="kullanıcılar" ColumnName="kullanıcılar" />
+                <ScalarProperty Name="fatura" ColumnName="fatura" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Masas">
+            <EntityTypeMapping TypeName="RestorantOModel.Masa">
+              <MappingFragment StoreEntitySet="Masa">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Masa_No" ColumnName="Masa_No" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Menü">
+            <EntityTypeMapping TypeName="RestorantOModel.Menü">
+              <MappingFragment StoreEntitySet="Menü">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="kategori" ColumnName="kategori" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Menüİtem">
+            <EntityTypeMapping TypeName="RestorantOModel.Menüİtem">
+              <MappingFragment StoreEntitySet="Menüİtem">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="ÜrünAd" ColumnName="ÜrünAd" />
+                <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+                <ScalarProperty Name="ID_Menü" ColumnName="ID_Menü" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Personals">
+            <EntityTypeMapping TypeName="RestorantOModel.Personal">
+              <MappingFragment StoreEntitySet="Personal">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+                <ScalarProperty Name="SoyAd" ColumnName="SoyAd" />
+                <ScalarProperty Name="Maaş" ColumnName="Maaş" />
+                <ScalarProperty Name="Rol" ColumnName="Rol" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Rezervasiyons">
+            <EntityTypeMapping TypeName="RestorantOModel.Rezervasiyon">
+              <MappingFragment StoreEntitySet="Rezervasiyon">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="RezervasiyonTarihi" ColumnName="RezervasiyonTarihi" />
+                <ScalarProperty Name="Masa_ID" ColumnName="Masa_ID" />
+                <ScalarProperty Name="MüşteriAd" ColumnName="MüşteriAd" />
+                <ScalarProperty Name="TelefonNO" ColumnName="TelefonNO" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sipariş">
+            <EntityTypeMapping TypeName="RestorantOModel.Sipariş">
+              <MappingFragment StoreEntitySet="Sipariş">
+                <ScalarProperty Name="Sipariş_No" ColumnName="Sipariş_No" />
+                <ScalarProperty Name="Adet" ColumnName="Adet" />
+                <ScalarProperty Name="Toplam" ColumnName="Toplam" />
+                <ScalarProperty Name="ID_Masa" ColumnName="ID_Masa" />
+                <ScalarProperty Name="ID_Menüitem" ColumnName="ID_Menüitem" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RestorantOModelStoreContainer" CdmEntityContainer="RestorantOEntities2">
+    <EntitySetMapping Name="Kullanicilars">
+      <EntityTypeMapping TypeName="RestorantOModel.Kullanicilar">
+        <MappingFragment StoreEntitySet="Kullanicilar">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="KullanciAd" ColumnName="KullanciAd" />
+          <ScalarProperty Name="Şifre" ColumnName="Şifre" />
+          <ScalarProperty Name="personal" ColumnName="personal" />
+          <ScalarProperty Name="rezirvasiyon" ColumnName="rezirvasiyon" />
+          <ScalarProperty Name="sipariş" ColumnName="sipariş" />
+          <ScalarProperty Name="menüitem" ColumnName="menüitem" />
+          <ScalarProperty Name="kullanıcılar" ColumnName="kullanıcılar" />
+          <ScalarProperty Name="fatura" ColumnName="fatura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Masas">
+      <EntityTypeMapping TypeName="RestorantOModel.Masa">
+        <MappingFragment StoreEntitySet="Masa">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Masa_No" ColumnName="Masa_No" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Menü">
+      <EntityTypeMapping TypeName="RestorantOModel.Menü">
+        <MappingFragment StoreEntitySet="Menü">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="kategori" ColumnName="kategori" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Menüİtem">
+      <EntityTypeMapping TypeName="RestorantOModel.Menüİtem">
+        <MappingFragment StoreEntitySet="Menüİtem">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ÜrünAd" ColumnName="ÜrünAd" />
+          <ScalarProperty Name="Fiyat" ColumnName="Fiyat" />
+          <ScalarProperty Name="ID_Menü" ColumnName="ID_Menü" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Personals">
+      <EntityTypeMapping TypeName="RestorantOModel.Personal">
+        <MappingFragment StoreEntitySet="Personal">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="SoyAd" ColumnName="SoyAd" />
+          <ScalarProperty Name="Maaş" ColumnName="Maaş" />
+          <ScalarProperty Name="Rol" ColumnName="Rol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rezervasiyons">
+      <EntityTypeMapping TypeName="RestorantOModel.Rezervasiyon">
+        <MappingFragment StoreEntitySet="Rezervasiyon">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="RezervasiyonTarihi" ColumnName="RezervasiyonTarihi" />
+          <ScalarProperty Name="Masa_ID" ColumnName="Masa_ID" />
+          <ScalarProperty Name="MüşteriAd" ColumnName="MüşteriAd" />
+          <ScalarProperty Name="TelefonNO" ColumnName="TelefonNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sipariş">
+      <EntityTypeMapping TypeName="RestorantOModel.Sipariş">
+        <MappingFragment StoreEntitySet="Sipariş">
+          <ScalarProperty Name="Sipariş_No" ColumnName="Sipariş_No" />
+          <ScalarProperty Name="Adet" ColumnName="Adet" />
+          <ScalarProperty Name="Toplam" ColumnName="Toplam" />
+          <ScalarProperty Name="ID_Masa" ColumnName="ID_Masa" />
+          <ScalarProperty Name="ID_Menüitem" ColumnName="ID_Menüitem" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

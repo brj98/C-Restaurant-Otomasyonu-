@@ -1,0 +1,15 @@
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselPr.csprojAssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.Frmgiris.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmKategori.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FormMenu1.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmKullanicilar.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmMain.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmPersonal.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmRezirvasiyon.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.frmsipariis.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselPr.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.exe.licenses
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselPr.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.pdb

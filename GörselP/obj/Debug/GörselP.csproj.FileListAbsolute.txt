@@ -1,0 +1,950 @@
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\GörselP.exe.config
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\GörselP.pdb
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.csprojAssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmMain.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.exe.licenses
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.csproj.CopyComplete
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.pdb
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FormMenu1.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\EntityFramework.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\EntityFramework.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmKategori.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.Frmgiris.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmPersonal.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmRezirvasiyon.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.FrmKullanicilar.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\Guna.UI2.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.frmsipariis.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\obj\Debug\GörselP.Frmfatura.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\GörselP\GörselP\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\GörselP.exe.config
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\GörselP.pdb
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\Guna.UI2.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csprojAssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.Frmfatura.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.Frmgiris.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmKategori.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FormMenu1.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmKullanicilar.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmMain.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmPersonal.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmRezirvasiyon.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.frmsipariis.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.exe.licenses
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.CopyComplete
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.pdb
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\GörselP.exe.config
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\GörselP.pdb
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Xpo.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\EntityFramework.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\Guna.UI2.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.CodeParser.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Xpo.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\EntityFramework.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Win.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Map.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.csprojAssemblyReference.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.Frmfatura.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.Frmgiris.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.FrmKategori.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.FormMenu1.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.FrmKullanicilar.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.FrmMain.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.FrmPersonal.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.FrmRezirvasiyon.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.frmsipariis.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.Properties.Resources.resources
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.csproj.GenerateResource.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.exe.licenses
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.csproj.CoreCompileInputs.cache
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.csproj.CopyComplete
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.exe
+C:\Users\الفرات للاتصالات\Desktop\Görsel Proje\Lokanta otomasiyonu\GörselP\obj\Debug\GörselP.pdb
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\GörselP.exe.config
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\GörselP.exe
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\GörselP.pdb
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.SqlServer.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\Guna.UI2.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.CodeParser.v21.1.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Images.v21.1.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Dashboard.v21.1.Win.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Data.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.DataAccess.v21.1.UI.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Map.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Office.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.PivotGrid.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.TreeMap.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Utils.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Utils.v21.1.UI.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Xpo.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraBars.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.UI.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraCharts.v21.1.Wizard.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Presets.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGauges.v21.1.Win.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraMap.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraPivotGrid.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraReports.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraRichEdit.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraTreeMap.v21.1.UI.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraVerticalGrid.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\EntityFramework.SqlServer.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraDiagram.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Diagram.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\DevExpress.XtraNavBar.v21.1.xml
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Dashboard.v21.1.Win.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Dashboard.v21.1.Win.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Dashboard.v21.1.Win.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Dashboard.v21.1.Win.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.DataAccess.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Map.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Map.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Map.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Map.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.PivotGrid.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Utils.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Utils.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Utils.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Utils.v21.1.UI.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Xpo.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Xpo.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Xpo.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Xpo.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraCharts.v21.1.Wizard.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraGauges.v21.1.Presets.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraReports.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraReports.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraReports.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraReports.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraRichEdit.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Diagram.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\de\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\es\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ja\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\bin\Debug\ru\DevExpress.XtraNavBar.v21.1.resources.dll
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.AssemblyReference.cache
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.SuggestedBindingRedirects.cache
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.Frmfatura.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.Frmgiris.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmKategori.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FormMenu1.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmKullanicilar.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmMain.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmPersonal.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.FrmRezirvasiyon.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.frmsipariis.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.Properties.Resources.resources
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.GenerateResource.cache
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.exe.licenses
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.CoreCompileInputs.cache
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.csproj.CopyComplete
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.exe
+E:\2.S-2.D\Görsel Proje\194410812__Mohamad__Albarjas\GörselP\obj\Debug\GörselP.pdb

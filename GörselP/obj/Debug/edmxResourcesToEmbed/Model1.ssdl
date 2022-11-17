@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RestorantOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kullanicilar">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KullanciAd" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Şifre" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="personal" Type="bit" />
+    <Property Name="rezirvasiyon" Type="bit" />
+    <Property Name="sipariş" Type="bit" />
+    <Property Name="menüitem" Type="bit" />
+    <Property Name="kullanıcılar" Type="bit" />
+    <Property Name="fatura" Type="bit" />
+  </EntityType>
+  <EntityType Name="Masa">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Masa_No" Type="varchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Menü">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kategori" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Menüİtem">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ÜrünAd" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Fiyat" Type="float" />
+    <Property Name="ID_Menü" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Personal">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="SoyAd" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Maaş" Type="float" />
+    <Property Name="Rol" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rezervasiyon">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RezervasiyonTarihi" Type="date" Nullable="false" />
+    <Property Name="Masa_ID" Type="int" Nullable="false" />
+    <Property Name="MüşteriAd" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TelefonNO" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sipariş">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="Sipariş_No" Type="int" />
+    <Property Name="Adet" Type="int" />
+    <Property Name="Toplam" Type="float" />
+    <Property Name="ID_Masa" Type="int" />
+    <Property Name="ID_Menüitem" Type="int" />
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <Association Name="masafk">
+    <End Role="Masa" Type="Self.Masa" Multiplicity="1" />
+    <End Role="Rezervasiyon" Type="Self.Rezervasiyon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Masa">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Rezervasiyon">
+        <PropertyRef Name="Masa_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="meifk">
+    <End Role="Menü" Type="Self.Menü" Multiplicity="1" />
+    <End Role="Menüİtem" Type="Self.Menüİtem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Menü">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Menüİtem">
+        <PropertyRef Name="ID_Menü" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="smfk">
+    <End Role="Masa" Type="Self.Masa" Multiplicity="0..1" />
+    <End Role="Sipariş" Type="Self.Sipariş" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Masa">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Sipariş">
+        <PropertyRef Name="ID_Masa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="smifk">
+    <End Role="Menüİtem" Type="Self.Menüİtem" Multiplicity="0..1" />
+    <End Role="Sipariş" Type="Self.Sipariş" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Menüİtem">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Sipariş">
+        <PropertyRef Name="ID_Menüitem" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RestorantOModelStoreContainer">
+    <EntitySet Name="Kullanicilar" EntityType="Self.Kullanicilar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Masa" EntityType="Self.Masa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Menü" EntityType="Self.Menü" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Menüİtem" EntityType="Self.Menüİtem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Personal" EntityType="Self.Personal" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rezervasiyon" EntityType="Self.Rezervasiyon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sipariş" EntityType="Self.Sipariş" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="masafk" Association="Self.masafk">
+      <End Role="Masa" EntitySet="Masa" />
+      <End Role="Rezervasiyon" EntitySet="Rezervasiyon" />
+    </AssociationSet>
+    <AssociationSet Name="meifk" Association="Self.meifk">
+      <End Role="Menü" EntitySet="Menü" />
+      <End Role="Menüİtem" EntitySet="Menüİtem" />
+    </AssociationSet>
+    <AssociationSet Name="smfk" Association="Self.smfk">
+      <End Role="Masa" EntitySet="Masa" />
+      <End Role="Sipariş" EntitySet="Sipariş" />
+    </AssociationSet>
+    <AssociationSet Name="smifk" Association="Self.smifk">
+      <End Role="Menüİtem" EntitySet="Menüİtem" />
+      <End Role="Sipariş" EntitySet="Sipariş" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
